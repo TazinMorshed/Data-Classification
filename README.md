@@ -41,7 +41,7 @@ In stacking-based ensemble learning, I use the predictions made by multiple base
 
 ## Result Analysis
 
-Our models gave good accuracy score, however `100% accuracy` on Stacking Ensemble Learning might make it seem like a case of overfitting. However this is not the case as the accuracy is given by prediction of the model given completely unseen data.
+The models gave good accuracy score, however `100% accuracy` on Stacking Ensemble Learning might make it seem like a case of overfitting. However this is not the case as the accuracy is given by prediction of the model given completely unseen data.
 
 One possible reason for getting 100% accuracy using the stacking-based ensemble learning approach is that the dataset (iris-dataset) is relatively small and simple.
 
